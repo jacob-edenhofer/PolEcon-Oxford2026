@@ -1,8 +1,11 @@
 # A Second Introduction to Formal Political Economy
 
 **Instructor:** Jacob Edenhofer
+
 **Institution:** University of Oxford – Nuffield College
+
 **Term:** Trinity Term 2026
+
 **Contact:** [jacob.edenhofer@nuffield.ox.ac.uk](mailto:jacob.edenhofer@nuffield.ox.ac.uk)
 
 ## Course Overview
