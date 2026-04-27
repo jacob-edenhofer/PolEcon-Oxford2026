@@ -1,0 +1,57 @@
+# =============================================================================
+# .gitignore for PolEcon-Oxford2026
+# =============================================================================
+
+# Readings excluded from public repo for copyright reasons (see README)
+01 Readings/
+
+# macOS junk
+.DS_Store
+**/.DS_Store
+
+# RStudio / R user-specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+**/.Rhistory
+**/.RData
+
+# R data caches
+*.rds.tmp
+
+# Jupyter / Python
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# LaTeX build artefacts (in case slide sources are added later)
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Editor scratch files
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs and large/temporary outputs
+*.log
+*.tmp
