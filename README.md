@@ -20,7 +20,7 @@ This is the second iteration of the course. The 2025 version is archived at <htt
 
 ```
 .
-├── 01 Readings/           # (Excluded from the public repo — see note below)
+├── 01 Readings/           # Required and optional readings, organised by week
 ├── 02 Slides/             # Weekly lecture slides (PDF)
 ├── 03 Simulations/        # R scripts and Jupyter notebooks for figures and simulations
 │   └── Custom_scripts/    # Shared theme, packages, and helper functions
@@ -30,7 +30,7 @@ This is the second iteration of the course. The 2025 version is archived at <htt
 └── README.md              # This file
 ```
 
-> **A note on the readings folder.** The required and recommended readings are listed in the syllabus. They are not redistributed in this repository for copyright reasons. Most are accessible to Oxford students via SOLO and the Bodleian's electronic resources; the syllabus also lists open-access alternatives where available.
+> **A note on the readings folder.** All required and recommended readings are organised by week under `01 Readings/`, with full bibliographic details in the syllabus. These materials are made available for educational use by enrolled students; please refer to the original publishers for any redistribution rights.
 
 ---
 
